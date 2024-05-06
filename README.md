@@ -12,7 +12,7 @@ Bizcardz project in python
 
 **OCR**:Optical character recognition (OCR) is sometimes referred to as text recognition. An OCR program extracts and repurposes data from scanned documents, camera images and image-only pdfs.
 
-**LIBRARIES USED:**Streamlit -mysql.connector -Pandas-OS module-Request-re module Request-Numpy-easyocr
+**LIBRARIES USED:** Streamlit -mysql.connector -Pandas-OS module-Request-re module Request-Numpy-easyocr
 
 **Objective of project:**
    BizCardX is a user-friendly tool for extracting information from business cards. The tool uses OCR technology to recognize text on business cards and extracts the data into a SQL database after classification using regular expressions. Users can access the extracted information using a GUI built using streamlit.
